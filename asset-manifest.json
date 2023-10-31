@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hannahvile.github.io/react0/static/css/main.073c9b0a.css",
+    "main.js": "/hannahvile.github.io/react0/static/js/main.4677a78b.js",
+    "static/js/787.ac4c4ce8.chunk.js": "/hannahvile.github.io/react0/static/js/787.ac4c4ce8.chunk.js",
+    "static/media/logo.svg": "/hannahvile.github.io/react0/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hannahvile.github.io/react0/index.html",
+    "main.073c9b0a.css.map": "/hannahvile.github.io/react0/static/css/main.073c9b0a.css.map",
+    "main.4677a78b.js.map": "/hannahvile.github.io/react0/static/js/main.4677a78b.js.map",
+    "787.ac4c4ce8.chunk.js.map": "/hannahvile.github.io/react0/static/js/787.ac4c4ce8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4677a78b.js"
+  ]
+}
